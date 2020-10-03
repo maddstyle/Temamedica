@@ -1,0 +1,112 @@
+.navbar{
+  background-color: #f4f3f1;
+  /* padding-top: 1rem; */
+  /* padding-bottom: 2rem; */
+}
+
+.nav-scroll-style{
+  background-color: white;
+  border-bottom: 1px solid #000;
+  transition: 0.3s all;
+}
+
+section{
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+#jumbotron{
+  background-color: #f4f3f1;
+}
+
+h1 {
+  padding-top: 10px;
+  color:lightgray;
+}
+
+p{
+  color: lightgray
+}
+
+.text{
+  padding-bottom: 20px;
+}
+
+.jumbotron{
+  background-color: transparent;
+}
+
+/* could wrap it in media query for responsivnes control */
+/* @media(min-width: 1200px){ */
+  .image{
+    background-image: url(https://www.xmple.com/wallpaper/black-linear-gradient-blue-1920x1080-c2-00ced1-000000-a-15-f-14.svg);
+    background-position: right center; 
+    background-size: cover;
+  }
+/* } */
+
+.i{
+  padding-top: 20px;
+  font-size: 5rem;
+}
+
+.i1{
+  color: #16a085;
+}
+
+.i2{
+  color:#e74c3c;
+}
+
+.i3{
+  color:#9b59b6;
+}
+
+
+h2{
+  padding-top: 30px;
+  color: lightgray
+}
+
+#carousel{
+  background-color:#17806c;
+
+}
+
+#carousel .carousel-item{
+  height: 400px;
+}
+
+h5{
+  padding-top: 40px;
+}
+
+#ceny .card-header{
+  font-size: 1.5rem;
+}
+
+#ceny .card-header #best{
+  font-size: 1.8rem;
+}
+
+[data-toggle="collapse"]{
+  cursor: pointer;
+}
+
+#footerList a{
+   color: #929292;
+}
+
+#footerList h4{
+  scroll-padding-bottom: 0.5rem;
+}
+
+#footerList {
+  line-height: 2rem;
+}
+
+.page-footer{
+  background-color: #f4f3f1;
+  height: 80px
+}
+
